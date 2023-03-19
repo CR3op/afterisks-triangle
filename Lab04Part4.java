@@ -1,14 +1,6 @@
-/////////////////////////
-// CSCI 3326.02
-// Spring 2023
-// Lab 04
-// Carlos Roldan
-// <Student Name 2>
-// ...
-/////////////////////////
 
 
-public class Lab04Part4 {
+public class afterriskTree{
     public static void main(String[] args)
     {
         //create a for loop
